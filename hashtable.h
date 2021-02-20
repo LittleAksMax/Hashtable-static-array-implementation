@@ -15,7 +15,7 @@ typedef struct {
     int age;
 } person_t;
 
-// find index
+// find index 
 unsigned int ht_hash(const char*, unsigned int);
 
 // insert certain value into hashtable
